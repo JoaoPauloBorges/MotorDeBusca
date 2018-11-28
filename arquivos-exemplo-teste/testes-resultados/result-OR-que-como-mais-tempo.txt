@@ -1,0 +1,7 @@
+tempo_perdido-legiao_urbana.txt [0.08478675333635044]
+o_guia_do_mochileiro_das_galaxias-douglas_adams.txt [0.0474048933831227]
+as_cronicas_de_artur-o_rei_do_inverno-bernard_cornwell.txt [0.043601193615867534]
+dracula-bram_stoker.txt [0.04170972859764786]
+tocando_em_frente-almir_sater.txt [0.02356700413903814]
+o_hobbit-jrr_tolkien.txt [0.01617343421306539]
+a_guerra_dos_tronos-george_rr_martin.txt [0.010268847119406595]

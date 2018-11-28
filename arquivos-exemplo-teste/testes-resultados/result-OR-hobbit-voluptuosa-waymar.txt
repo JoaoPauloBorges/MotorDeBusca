@@ -1,0 +1,3 @@
+o_hobbit-jrr_tolkien.txt [0.06931471805599453]
+a_guerra_dos_tronos-george_rr_martin.txt [0.02567211779851649]
+dracula-bram_stoker.txt [0.012089776405115323]

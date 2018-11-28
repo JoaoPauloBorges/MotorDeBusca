@@ -1,0 +1,12 @@
+Cada arquivo contém os registros retornados a partir de uma consulta diferente.
+O nome de cada arquivo apresenda o seguinte formato:
+
+result-[tipo da busca: AND ou OR]-[termos de busca separados por hifem].txt
+
+Exempo:
+
+O arquivo result-OR-como-estava-voluptuosa.txt tem os resultados da busca feita pelos termos "como", "estava" e "voluptuosa"; e nessa busca, os resultados encontrados tem PELO MENOS um dos termos da busca.
+
+Já o arquivo result-AND--que-como-mais-tempo.txt tem os resultados da busca feita pelos termos "que", "como", "mais" e "tempo"; e nessa busca, os resultados encontrados tem TODOS os termos da busca.
+
+Nos arquivos, a lista de resultados contém o nome do arquivo seguido da relevância calculada.

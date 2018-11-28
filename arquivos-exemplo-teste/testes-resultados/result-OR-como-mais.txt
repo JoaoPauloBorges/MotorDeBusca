@@ -1,0 +1,7 @@
+tocando_em_frente-almir_sater.txt [0.016635532333438684]
+dracula-bram_stoker.txt [0.014507731686138387]
+a_guerra_dos_tronos-george_rr_martin.txt [0.010268847119406595]
+o_guia_do_mochileiro_das_galaxias-douglas_adams.txt [0.009560650766344072]
+tempo_perdido-legiao_urbana.txt [0.0074265769345708416]
+o_hobbit-jrr_tolkien.txt [0.0046209812037329686]
+as_cronicas_de_artur-o_rei_do_inverno-bernard_cornwell.txt [0.004471917293935131]
